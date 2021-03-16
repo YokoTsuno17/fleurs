@@ -17,7 +17,7 @@ a:hover{
    color: #feca57;
 }
 
-.hero{
+.slogan{
    margin-top: 300px;
    margin-left: 50px;
    color: beige;
@@ -61,7 +61,7 @@ bottom: 0;
 .plant-1, .plant-2, .plant-3, .plant-4{
    color: black;
    font-family: abril Fatface;
-
+   
 }
 
 .card-text{
@@ -92,5 +92,13 @@ footer{
   font-weight: 600;
   margin-top: 200px;
   
+}
+
+.scroll{
+   font-size: 45px;
+   margin-left: 1000px;
+   margin-top: 100px;
+   z-index: 99;
+   
 }
 
