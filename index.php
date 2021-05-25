@@ -1,3 +1,4 @@
+<?php include('include/init.inc.php'); ?>
 <?php include('include/header.inc.php'); ?>
   
 

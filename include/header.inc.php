@@ -19,9 +19,9 @@
   </head>
   <body>
 
-     <header style="background: url('images/bg.jpg')" class="jumbotron bg-cover text-white";>
+     <header style="background: url('images/bg_opt.jpg')" class="jumbotron bg-cover text-white";>
      <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="#"><img src="/images/logo.png" width="100" height="60" alt="logo entreprise"></a>
+        <a class="navbar-brand" href="#"><img src="images/logo.png" width="100" height="60" alt="logo entreprise"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
