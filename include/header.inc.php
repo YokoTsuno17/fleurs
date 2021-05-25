@@ -2,7 +2,7 @@
 
 
 <!doctype html>
-<html lang="fr">
+<html lang="fr"id="haut">
   <head>
     <title>NatureEmoi - Vente de plantes</title>
     <!-- Required meta tags -->

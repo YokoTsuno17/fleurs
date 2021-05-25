@@ -188,7 +188,7 @@
         </section>
 
       <div class="scroll">
-        <a href="#navbarNavAltMarkup"><i class="fas fa-chevron-up"></i></a>
+        <a href="#haut"><i class="fas fa-chevron-up"></i></a>
 
       </div>
 
