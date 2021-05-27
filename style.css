@@ -2,14 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 
+body {
+   margin: 0;
+
+}
+
 header{
       height: 800px;
  }
 
 .navbar, .nav-link{
-   font-size: x-large;
-   font-weight: 700;
+   
+   font-weight: 300;
+   font-size: 25px;
    color: #add981;
+   letter-spacing: 1px;
+   
      
 }
 
@@ -91,10 +99,18 @@ footer{
   font-size: large;
   font-weight: 600;
   
-  color: white; 
+  color:blue; 
    text-align: center;
    padding: 20px;
   
+}
+.navbar, .nav-link2{
+   font-weight: bold;
+   font-size: 35px;
+   color: #add981;
+   letter-spacing: 1px;
+   
+     
 }
 
 .scroll{

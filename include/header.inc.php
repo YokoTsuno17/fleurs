@@ -4,10 +4,12 @@
 <!doctype html>
 <html lang="fr"id="haut">
   <head>
-    <title>NatureEmoi - Vente de plantes</title>
+    <title>NatureEmoi - Vente, achat de plantes exotiques, grasses, vertes</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="plantes exotiques, plantes vertes, plantes grasses">
+    <meta name="robots" content="index, follow">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -32,7 +34,8 @@
           <a class="nav-link active" href="#service">Accueil <span class="sr-only">(current)</span></a>
           <a class="nav-link active" href="<?php echo RACINE_SITE; ?>fiche_produit.php">Nos meilleures ventes</a>
           <a class="nav-link active" href="#plantes">Nos plantes</a>
-          
+          <a class="nav-link active" href="#plantes"></a>
+
         </div>
      
       </div>

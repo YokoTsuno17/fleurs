@@ -1,7 +1,21 @@
 <footer>
 <div class="container">
-<!-- <?php echo date('Y') .\n&copy; ?> -->
-<a href="http://">Conditions Générales de Ventes</a>
+<ul class="nav2">
+  <li class="nav-item2">
+    <a class="nav-link2 active" href="#">Conditions Générales de Ventes</a>
+  </li>
+  <li class="nav-item2">
+    <a class="nav-link2" href="#">Faq</a>
+  </li>
+  <li class="nav-item2">
+    <a class="nav-link2" href="#">Livraison/Retour</a>
+  </li>
+  <li class="nav-item2">
+    <a class="nav-link2" href="#" tabindex="-1" aria-disabled="true">Qui sommes-nous ?</a>
+  </li>
+</ul>
+<?php echo date('Y') .\n&copy; ?>
+<a href="http://"></a>
 
 </div>
 </footer>
